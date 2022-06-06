@@ -1,5 +1,5 @@
 # 도전! 열정! 행복! 부천상록학교 전공과
-![]("https://github.com/wannafeel/sangroksam/issues/1#issue-1261735795")
+("https://github.com/wannafeel/sangroksam/issues/1#issue-1261735795")
 ## 원준샘은 상록학교 전공과에 대해 알려주는 챗봇이예요.
 <hr />
 ### 원준샘 활용 방법
