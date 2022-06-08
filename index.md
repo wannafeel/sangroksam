@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td style="text-align: center">실습, 취업률</td>
-      <td style="text-align: center">학교 규정, 학교폭력, 급식, 야자, SW, AI, 체육중점, 축구부, 교육활동, 동아리, 핸드폰 소지</td>
+      <td style="text-align: center">교내실습, 교외실습, 취업률 </td>
     </tr>
     <tr>
       <td style="text-align: center">전공과 지원</td>
