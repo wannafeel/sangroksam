@@ -15,7 +15,6 @@
     </tr>
   </thead>
   <tbody>
-    </tr>
       <td style="text-align: center">전공과 소개</td>
       <td style="text-align: center">전공과란? 배우는 내용, 학과소개, 실용생활과, 전문직업과</td>
     </tr>
