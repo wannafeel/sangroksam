@@ -16,40 +16,34 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">학교 소개</td>
-      <td style="text-align: center">학생 수, 자랑거리, 교복, 학교 위치, 홈페이지 주소, 전화번호</td>
+      <td style="text-align: center">전공과 소개</td>
+      <td style="text-align: center">전공과란? 배우는 내용, 학과소개, 실용생활과, 전문직업과</td>
     </tr>
     <tr>
-      <td style="text-align: center">학교 시설</td>
-      <td style="text-align: center">운동장, 천문대, 화장실, 교실, 급식실, 도서관, 체육관, 야자실</td>
+      <td style="text-align: center">실용생활과 과목 소개</td>
+      <td style="text-align: center">가정생활, 사회일상생활, 생활체육, 직업생활, 기초작업, 허브 재배 임가공</td>
     </tr>
     <tr>
-      <td style="text-align: center">학교 수업</td>
-      <td style="text-align: center">온라인 수업, 종교 수업, 교육 과정</td>
+      <td style="text-align: center">전문직업과 과목 소개</td>
+      <td style="text-align: center">직업생활, 포장조립운반, 허브 재배 임가공, 외식서비스, 사무지원, 제과제빵, 자동차 외장관리, 생활경제 </td>
     </tr>
     <tr>
-      <td style="text-align: center">학교 생활</td>
+      <td style="text-align: center">실습, 취업률</td>
       <td style="text-align: center">학교 규정, 학교폭력, 급식, 야자, SW, AI, 체육중점, 축구부, 교육활동, 동아리, 핸드폰 소지</td>
     </tr>
     <tr>
-      <td style="text-align: center">학사 일정 및 시간표</td>
-      <td style="text-align: center">등하교 시간, 점심시간, 방학, 시험기간, 일과 시간표</td>
+      <td style="text-align: center">전공과 지원</td>
+      <td style="text-align: center">지원 자격, 모집정원, 제출서류, 원서교부 및 접수, 입학시험</td>
     </tr>
     <tr>
-      <td style="text-align: center">진학</td>
-      <td style="text-align: center">진학율, 인서울 합격 수, 진학 활동, 서울대 합격자 수, 등급별 대학 합격, 생활기록부</td>
+      <td style="text-align: center">전공과 시험 과목</td>
+      <td style="text-align: center">직업기능, 사회적 영역, 일상생활</td>
     </tr>
     <tr>
-      <td style="text-align: center">시험 및 평가</td>
-      <td style="text-align: center">내신, 시험문제 난이도, 모의고사, 수행평가</td>
+      <td style="text-align: center">지원 서류작성 방법</td>
+      <td style="text-align: center">졸업 예정인 고3 학생의 서류 종류 및 작성방법, 졸업자의 서류 종류 및 작성방법</td>
     </tr>
-    <tr>
-      <td style="text-align: center">주변 환경</td>
-      <td style="text-align: center">매점, 문구점, 맛집</td>
     </tr>
-    <tr>
-      <td style="text-align: center">기타 문의</td>
-      <td style="text-align: center">근처 여고, 축제, 체육대회, 예쁜쌤, 교생쌤, 편의점, 외출, 종교</td>
     </tr>
   </tbody>
 </table>
