@@ -41,7 +41,7 @@
     <tr>
       <td style="text-align: center">지원 서류작성 방법</td>
       <td style="text-align: center">졸업 예정인 고3 학생의 서류 종류 및 작성방법, 졸업자의 서류 종류 및 작성방법</td>
-    </tr>
+    
   </tbody>
 </table>
 
